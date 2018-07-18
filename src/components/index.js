@@ -1,13 +1,11 @@
 import Header from './Header';
 import HomePage from './HomePage';
-import CategoryPage from './CategoryPage';
-import DealsList from './DealsList';
+import AnotherPage from './AnotherPage';
 import NotFoundPage from './NotFoundPage';
 
 export {
   Header,
   HomePage,
-  CategoryPage,
-  DealsList,
+  AnotherPage,
   NotFoundPage,
 }
